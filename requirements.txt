@@ -1,0 +1,7 @@
+beir
+numpy
+torch
+tqdm
+peft
+trl
+transformers
